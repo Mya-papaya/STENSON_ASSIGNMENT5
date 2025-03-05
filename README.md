@@ -5,7 +5,7 @@ For this project, I followed the tutorial titled *"[TouchDesigner Tutorial - Aud
 
 ## Process and Modifications
 ![Screenshot 1](./Screenshot%202025-03-04%20220818.png)
-![Screenshot 2](./Screenshot%202025-03-04%20220830.png)
+![Screenshot 2](./Screenshot%202025-03-04%202208300.png)
 
 While adhering to the tutorial’s foundation, I introduced several modifications to make the project uniquely my own. For example:
 - I adjusted the **X, Y, and Z axes**, as well as **angles**, to create dynamic and engaging visual movement.
