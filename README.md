@@ -4,6 +4,9 @@
 For this project, I followed the tutorial titled *"[TouchDesigner Tutorial - Audio Reactive Visuals](https://www.youtube.com/watch?v=Mt2hwb5cngA&t=775s)"* by Acrilycode on YouTube. The tutorial provided step-by-step guidance on creating an audio-reactive visual composition, teaching valuable techniques like linking sound inputs to visual parameters using CHOPs (Channel Operators) and TOPs (Texture Operators).
 
 ## Process and Modifications
+![Screenshot 1](./touchdesigner1.png)
+![Screenshot 2](./touchdesigner2.png)
+
 While adhering to the tutorial’s foundation, I introduced several modifications to make the project uniquely my own. For example:
 - I customized the **color palette** and **visual geometry** to align with the mood of the music I selected.
 - I integrated **motion patterns** and refined **node parameters** to enhance the fluidity and responsiveness of the visuals.
